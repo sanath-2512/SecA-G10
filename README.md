@@ -381,6 +381,10 @@ We are a group of data enthusiasts dedicated to uncovering the stories hidden wi
 | **Divyansh Rathore** | 2401020021 | Presentation |
 
 ---
+### Contribution Matrix
+
+<img width="976" height="782" alt="image" src="https://github.com/user-attachments/assets/fb72abe0-b66d-4482-bcb5-2c36e18d1e3a" />
+
 
 <div align="center">
 
