@@ -396,7 +396,9 @@ We are a group of data enthusiasts dedicated to uncovering the stories hidden wi
 ---
 ### Contribution Matrix
 
-<img width="976" height="782" alt="image" src="https://github.com/user-attachments/assets/fb72abe0-b66d-4482-bcb5-2c36e18d1e3a" />
+
+<img width="765" height="378" alt="Screenshot 2026-02-18 at 22 58 52" src="https://github.com/user-attachments/assets/f64ad47e-7ef3-4e9d-a268-6a5933e75ac0" />
+
 
 
 <div align="center">
