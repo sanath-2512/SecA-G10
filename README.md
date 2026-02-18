@@ -50,12 +50,12 @@ The **Big Mart Sales Analysis** is a comprehensive data intelligence initiative 
 ### Quick Stats
 | Metric | Value |
 |:---|:---|
-| **Total Records Analyzed** | 8,522 transactions |
+| **Total Records Analyzed** | 8,523 transactions |
 | **Data Period** | Outlet establishments from 1987-2009 |
 | **Product Categories** | 16 distinct item types |
 | **Outlet Locations** | 3 geographic tiers |
 | **Outlet Types** | 3 operational models |
-| **Total Sales Volume** | ₹44.2M+ (cumulative) |
+| **Total Sales Volume** | ₹₹18.59M (cumulative) |
 | **Data Quality Improvement** | 100% (cleaned & standardized) |
 
 ### Core Achievements
