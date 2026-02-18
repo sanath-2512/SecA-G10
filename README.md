@@ -30,6 +30,19 @@
 
 ---
 
+## 🔗 Repository Files & Direct Links
+
+Below are working relative links to the key files in this repository. Click any link to open the file in the repo.
+
+- Cleaned dataset: [Cleaned_Dataset_Folder/Retail Sales Analysis Clean Data.csv](Cleaned_Dataset_Folder/Retail%20Sales%20Analysis%20Clean%20Data.csv)
+- Pivot & calculations: [Calculation_&_Pivot_table_folder/Retail Sales Analysis Section A G10 (1).csv](Calculation_&_Pivot_table_folder/Retail%20Sales%20Analysis%20Section%20A%20G10%20(1).csv)
+- Dashboard (PDF): [Dashboard_Folder/DashBoard.pdf](Dashboard_Folder/DashBoard.pdf)
+- Documentation (Intelligence Report PDF): [Documentation/Retail_Intelligence_Report.docx.pdf](Documentation/Retail_Intelligence_Report.docx.pdf)
+- Cleaning log: [Cleaned_Dataset_Folder/clean.md](Cleaned_Dataset_Folder/clean.md)
+- Raw dataset: [Rawdataset/Retail Sales Analysis Raw Data (1).csv](Rawdataset/Retail%20Sales%20Analysis%20Raw%20Data%20(1).csv)
+- Presentation folder: [Presentation](Presentation)
+
+
 ## 🎯 Executive Summary
 
 The **Big Mart Sales Analysis** is a comprehensive data intelligence initiative designed to unlock actionable insights from retail operational data. This project demonstrates enterprise-grade data processing, statistical analysis, and business intelligence capabilities applied to a real-world retail dataset.
