@@ -1,4 +1,5 @@
  ,,,,,
+Section 01 - Sales Summary by Item Type,,,,,
 Item_Type,SUM of Item_Outlet_Sales,,,,
 Fruits And Vegetables,"₹2,820,059.82",,,,
 Snack Foods,"₹2,732,786.09",,,,
@@ -126,4 +127,5 @@ Canned,12.15,,Canned,0.0534335745,
 Breads,10.6,,Breads,0.0586417345,
 Starchy Foods,13.175,,Starchy Foods,0.06227604,
 Others,14.5,,Others,0.048677482,
+
 Seafood,11.65,,Seafood,0.055936493,
