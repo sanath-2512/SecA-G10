@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analysis: Big Mart Sales Insights
+# Retail Sales Analysis: Big Mart Sales Insights
 ## *Enterprise-Grade Data Intelligence Platform*
 
 > **Transform retail data into actionable intelligence with advanced analytics, predictive insights, and dynamic visualization.**
@@ -15,7 +15,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [Executive Summary](#executive-summary)
 - [Project Overview](#project-overview)
 - [Key Findings & Insights](#key-findings--insights)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔗 Repository Files & Direct Links
+## Repository Files & Direct Links
 
 Below are working relative links to the key files in this repository. Click any link to open the file in the repo.
 
@@ -43,33 +43,33 @@ Below are working relative links to the key files in this repository. Click any 
 - Presentation folder: [Presentation](Presentation)
 
 
-## 🎯 Executive Summary
+## Executive Summary
 
 The **Big Mart Sales Analysis** is a comprehensive data intelligence initiative designed to unlock actionable insights from retail operational data. This project demonstrates enterprise-grade data processing, statistical analysis, and business intelligence capabilities applied to a real-world retail dataset.
 
 ### Quick Stats
 | Metric | Value |
 |:---|:---|
-| **Total Records Analyzed** | 8,523 transactions |
+| **Total Records Analyzed** | 8,522 transactions |
 | **Data Period** | Outlet establishments from 1987-2009 |
 | **Product Categories** | 16 distinct item types |
 | **Outlet Locations** | 3 geographic tiers |
 | **Outlet Types** | 3 operational models |
-| **Total Sales Volume** | ₹18.59M (cumulative) |
+| **Total Sales Volume** | ₹44.2M+ (cumulative) |
 | **Data Quality Improvement** | 100% (cleaned & standardized) |
 
 ### Core Achievements
-✅ **Complete Data Governance** – Systematic cleaning, validation, and standardization  
-✅ **Advanced Analytics** – 16+ custom metrics and 25+ dimensional pivot tables  
-✅ **Executive Dashboard** – Interactive, color-coded performance heatmaps  
-✅ **Predictive Foundation** – Clean, enriched dataset ready for ML models  
-✅ **Professional Documentation** – Enterprise-level reporting and analysis logs  
+- **Complete Data Governance** – Systematic cleaning, validation, and standardization  
+- **Advanced Analytics** – 16+ custom metrics and 25+ dimensional pivot tables  
+- **Executive Dashboard** – Interactive, color-coded performance heatmaps  
+- **Predictive Foundation** – Clean, enriched dataset ready for ML models  
+- **Professional Documentation** – Enterprise-level reporting and analysis logs  
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-### 🎯 Strategic Objectives
+### Strategic Objectives
 
 This initiative was designed with three primary goals:
 
@@ -84,13 +84,13 @@ Provide actionable, data-driven recommendations for outlet managers and executiv
 
 ---
 
-## 🔍 Key Findings & Insights
+## Key Findings & Insights
 
 ### Top Performing Categories (by Total Sales)
 ```
-🥇 Fruits and Vegetables    ₹2,820,059.82  (6.38% of total)
-🥈 Snack Foods              ₹2,732,786.09  (6.18% of total)
-🥉 Household Items          ₹2,055,493.71  (4.65% of total)
+1. Fruits and Vegetables    ₹2,820,059.82  (6.38% of total)
+2. Snack Foods              ₹2,732,786.09  (6.18% of total)
+3. Household Items          ₹2,055,493.71  (4.65% of total)
    Frozen Foods             ₹1,825,734.79  (4.13% of total)
    Dairy                    ₹1,522,594.05  (3.45% of total)
 ```
@@ -115,7 +115,7 @@ Provide actionable, data-driven recommendations for outlet managers and executiv
 
 ---
 
-## 📊 Dataset Structure
+## Dataset Structure
 
 ### Dimensions & Schema
 
@@ -145,7 +145,7 @@ Provide actionable, data-driven recommendations for outlet managers and executiv
 
 ---
 
-## 🛠️ Methodology & Process
+## Methodology & Process
 
 ### Phase 1: Data Ingestion & Quality Assessment
 
@@ -217,7 +217,7 @@ Before Cleaning          After Cleaning
 
 ---
 
-## 📈 Analysis Components
+## Analysis Components
 
 ### 1. **Calculation & Pivot Table Folder**
 **Purpose:** Advanced analytics engine  
@@ -271,7 +271,7 @@ Before Cleaning          After Cleaning
 
 ---
 
-## 📦 Deliverables
+## Deliverables
 
 ### Core Outputs
 | Deliverable | Format | Purpose | Status |
@@ -285,7 +285,7 @@ Before Cleaning          After Cleaning
 
 ---
 
-## 🔧 Technical Specifications
+## Technical Specifications
 
 ### Data Processing Environment
 - **Primary Tools:** Microsoft Excel, Google Sheets
@@ -312,7 +312,7 @@ Before Cleaning          After Cleaning
 
 ---
 
-## 📚 How to Use This Project
+## How to Use This Project
 
 ### For Business Analysts
 1. **Start Here:** Review the Dashboard PDF for visual overview
@@ -338,49 +338,49 @@ Before Cleaning          After Cleaning
 
 ---
 
-## 🎓 Key Learnings & Best Practices
+## Key Learnings & Best Practices
 
 ### Data Governance
-✅ **Missing Data Strategy** – Statistical imputation with domain knowledge  
-✅ **Standardization** – Consistent label formats across 8,522+ records  
-✅ **Quality Metrics** – 100% completeness after cleaning  
-✅ **Documentation** – Full audit trail of transformations  
+- **Missing Data Strategy** – Statistical imputation with domain knowledge  
+- **Standardization** – Consistent label formats across 8,522+ records  
+- **Quality Metrics** – 100% completeness after cleaning  
+- **Documentation** – Full audit trail of transformations  
 
 ### Statistical Analysis
-✅ **Pivot Table Architecture** – Multi-dimensional aggregation  
-✅ **Metric Calculation** – Domain-specific KPIs and indexes  
-✅ **Trend Analysis** – Historical patterns and performance forecasting  
-✅ **Correlation Analysis** – Feature impact on sales outcomes  
+- **Pivot Table Architecture** – Multi-dimensional aggregation  
+- **Metric Calculation** – Domain-specific KPIs and indexes  
+- **Trend Analysis** – Historical patterns and performance forecasting  
+- **Correlation Analysis** – Feature impact on sales outcomes  
 
 ### Business Intelligence
-✅ **Dashboard Design** – Executive-ready visualizations  
-✅ **Actionable Insights** – Data-driven recommendations  
-✅ **Stakeholder Communication** – Multi-format deliverables  
-✅ **Performance Monitoring** – Real-time KPI tracking  
+- **Dashboard Design** – Executive-ready visualizations  
+- **Actionable Insights** – Data-driven recommendations  
+- **Stakeholder Communication** – Multi-format deliverables  
+- **Performance Monitoring** – Real-time KPI tracking  
 
 ---
 
-## � Project Structure
+## Project Structure
 
 ```
-📦 SecA-G10
-├── 📊 Calculation_&_Pivot_table_folder  # 🧠 The "Brain" of the analysis
+SecA-G10
+├── Calculation_&_Pivot_table_folder     # The "Brain" of the analysis
 │   └── Retail Sales Analysis...csv      # Processed data ready for insights
-├── 🧹 Cleaned_Dataset_Folder            # ✨ Pristine Data
+├── Cleaned_Dataset_Folder               # Pristine Data
 │   ├── clean.md                         # Cleaning log
 │   └── Retail Sales Analysis Clean.csv  # The master dataset
-├── 📈 Dashboard_Folder                  # 🚀 The Final Output
-│   └── DashBoard.pdf                    # ⭐️ INTERACTIVE DASHBOARD
-├── 📁 Documentation                     # 📄 Reports
-├── 🎥 Presentation                      # 🎬 Pitch Deck
-├── 📁 Rawdataset                         # 📦 Raw Source
+├── Dashboard_Folder                     # The Final Output
+│   └── DashBoard.pdf                    # INTERACTIVE DASHBOARD
+├── Documentation                        # Reports
+├── Presentation                         # Pitch Deck
+├── Rawdataset                           # Raw Source
 │   └── Retail Sales Analysis Raw.csv    # Original dump
-└── 📝 README.md                         # You are here
+└── README.md                            # You are here
 ```
 
 ---
 
-## �👥 The Excellence Team (Group 10 - Section A)
+## The Excellence Team (Group 10 - Section A)
 
 We are a group of data enthusiasts dedicated to uncovering the stories hidden within numbers.
 
@@ -396,14 +396,12 @@ We are a group of data enthusiasts dedicated to uncovering the stories hidden wi
 ---
 ### Contribution Matrix
 
-
-<img width="765" height="378" alt="Screenshot 2026-02-18 at 22 58 52" src="https://github.com/user-attachments/assets/f64ad47e-7ef3-4e9d-a268-6a5933e75ac0" />
-
+<img width="976" height="782" alt="image" src="https://github.com/user-attachments/assets/fb72abe0-b66d-4482-bcb5-2c36e18d1e3a" />
 
 
 <div align="center">
 
-### 🌟 Project Status: COMPLETE & ENTERPRISE-READY
+### Project Status: COMPLETE & ENTERPRISE-READY
 
 **Data-driven decisions start with data-driven teams.**
 
@@ -412,7 +410,7 @@ We are a group of data enthusiasts dedicated to uncovering the stories hidden wi
 ---
 
 **Last Updated:** February 18, 2026  
-**Quality Assurance:** ✅ All components peer-reviewed and validated
+**Quality Assurance:** All components peer-reviewed and validated
 
 </div>
 
